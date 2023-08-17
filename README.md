@@ -1,10 +1,11 @@
-# About me
+## About me
 Experienced in Natural Language Processing (NLP) and Machine Learning (ML), with a focus on processing large unstructured textual data. Aspiring to leverage machine learning across diverse fields to deliver practical industry solutions for businesses.
 
 + [resume](https://drive.google.com/file/d/1B2u_GNxvJltMAGjtDRdshbszBIBkiyTw/view?usp=sharing)
 
 
-# Project on Github
+## Projects
+---
 
 ##  Master Theis
 + [Weakly supervised Aspect-Based Sentiment Analysis with Tensor Graph Convolutional Network](https://github.com/Annrison/ASSA_TG)
