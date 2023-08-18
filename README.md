@@ -4,7 +4,7 @@ Experienced in Natural Language Processing (NLP) and Machine Learning (ML), with
 + [resume](https://drive.google.com/file/d/1B2u_GNxvJltMAGjtDRdshbszBIBkiyTw/view?usp=sharing)
 
 
-## Projects
+## Projects on Github
 ---
 
 ##  Master Theis
@@ -22,4 +22,3 @@ Experienced in Natural Language Processing (NLP) and Machine Learning (ML), with
     + tool: Django
     + Analyze government tender data for features like identifying competing firms and comparing similarity to competitors
     + Earned 2nd Place & Popularity Award from 150+ competitors
-    + [Slides](https://drive.google.com/file/d/1WCX2ye8AeKG2is2T4-5wa0YKg-ibxs_q/view?usp=sharing)
